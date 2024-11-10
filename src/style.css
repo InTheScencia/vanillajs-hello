@@ -1,1 +1,12 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: black;
+}
+div {
+  margin: 0 auto;
+  padding: 200px;
+  width: 600px;
+  text-align: center;
+  display: block;
+  color: white;
+  background-color: black;
+}
